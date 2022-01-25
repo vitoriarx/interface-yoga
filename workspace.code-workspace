@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\..\\Documentos\\tela-login"
+		},
+		{
+			"path": "..\\..\\..\\Documentos\\Área de Trabalho\\calculadora"
+		},
+		{
+			"path": "..\\..\\..\\Documentos\\Área de Trabalho\\DevClub"
+		},
+		{
+			"path": "..\\..\\..\\Documentos\\Área de Trabalho\\curso javascript"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "DevClub"
+	}
+}
